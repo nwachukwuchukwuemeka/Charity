@@ -8,7 +8,7 @@
         <div class="navbar-menu">
             <div class="navbar-start">
                 <router-link to="/" class="navbar-item">Home</router-link>
-                <router-link to="/AboutUsPage" class="navbar-item"> About</router-link>
+                <router-link to="/AboutUsPage" class="navbar-item"> About us</router-link>
                 <router-link to="/ContactUsPage" class="navbar-item">Contact us</router-link>
                 <router-link to="/ServicesPage" class="navbar-item">Our Services</router-link>
 
